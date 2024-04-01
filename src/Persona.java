@@ -7,10 +7,7 @@
  *
  * @author quintanillad
  */
-public class Main {
+public class Persona {
+    int n; 
     
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        
-    }
 }
