@@ -7,10 +7,7 @@
  *
  * @author quintanillad
  */
-public class Main {
+public class Autor {
+    public int numero;
     
-    public static void main(String[] args) {
-   
-     
-    }
 }
